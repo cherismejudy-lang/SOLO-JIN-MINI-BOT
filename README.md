@@ -49,7 +49,7 @@ Set these on every platform:
 
 4. Fill in the settings:
    ```
-   Name:         inconnu-boy
+   Name:         JIN WOO 
    Environment:  Node
    Build Command: npm install
    Start Command: npm start
